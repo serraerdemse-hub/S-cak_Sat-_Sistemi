@@ -1,0 +1,1 @@
+# S-cak_Sat-_Sistemi
