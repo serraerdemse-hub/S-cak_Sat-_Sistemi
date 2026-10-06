@@ -1,1 +1,2 @@
-# S-cak_Sat-_Sistemi
+# Sicak_Satis_Sistemi
+Bu proje, sıcak satış süreçlerinin yönetilmesi ve takip edilmesi amacıyla kurulmuştur. Projede müşteriler, satış temsilcileri, ürünler, stok bilgileri, siparişler, satış işlemleri, ödeme bilgileri, tahsilatlar, ziyaret kayıtları ve satış rotaları ve kullanıcı istekleri ve ihtiyaçlarına yönelik bilgileri takip edilecektir. Sistem, sıcak satış ekiplerinin saha çalışmalarını daha düzenli hızlı ve de çok daha verimli bir şekilde yönetebilmesini sağlamak amacıyla geliştirilecek ve bir app arayüzü üzerinden kullanılabilir hale getirilecektir.
